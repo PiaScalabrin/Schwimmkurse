@@ -1,2 +1,2 @@
 # Schwimmkurse
-Verwaltet Abzeichen des Rettungsschwimmens
+Verwaltet Abzeichen des Rettungsschwimmens und Schwimmens
