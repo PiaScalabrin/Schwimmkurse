@@ -1,6 +1,12 @@
 # Schwimmkurse
 Verwaltet Abzeichen des Rettungsschwimmens und Schwimmens
-Stellen Sie sicher das alle Dateine im selben Verzeichnis liegen.
-Starte das Programm mit main.py 
-Person.py = teilnehmer und Prüfer 
-Menü.py
+Stellen Sie sicher das alle Dateien im selben Verzeichnis liegen.
+Starte das Programm mit menu.py 
+
+Person.py = Teilnehmer und Prüfer 
+
+Verwaltung.py = stellt die Logik zur Verwaltung der Daten bereit.
+
+Abzeichen = enthält die Abzeichen
+
+Rettungsschwimmen.py ist der ganze Code 
